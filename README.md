@@ -4,8 +4,7 @@ Worm
 
 ## Description
 
-* use data structures including a circular queue 
-* to implement an interactive ASCII snake/worm game.
+* use data structures including a circular queue to implement an interactive ASCII snake/worm game.
 
 ## Getting Started
 
